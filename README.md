@@ -1,4 +1,4 @@
-# 🤖 Guid for launching [TimeFarm](https://t.me/realgoats_bot/run?startapp=425d2a82-bfdf-44e9-a111-b9b0665a28ab) bot
+# 🤖 Guid for launching [GOATS](https://t.me/realgoats_bot/run?startapp=425d2a82-bfdf-44e9-a111-b9b0665a28ab) bot
 
 ![img1](./images/goats.png)
 
