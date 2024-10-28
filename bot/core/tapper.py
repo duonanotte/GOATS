@@ -344,10 +344,6 @@ class Tapper:
                     http_client = CloudflareScraper(headers=self.headers, connector=proxy_conn)
                     connection_manager.add(http_client)
 
-                    if not self.proxy:
-                        logger.error(f"{self.session_name} | Proxy is not set. Aborting")
-                        return
-
                     init_data = await self.get_tg_web_data()
 
                 _login = await self.login(http_client=http_client, init_data=init_data)
